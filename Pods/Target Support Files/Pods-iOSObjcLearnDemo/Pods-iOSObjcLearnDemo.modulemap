@@ -1,0 +1,6 @@
+framework module Pods_iOSObjcLearnDemo {
+  umbrella header "Pods-iOSObjcLearnDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
